@@ -1,0 +1,40 @@
+a {
+    color: #0366d6; 
+    text-decoration: none;
+    border-bottom: 1px solid #0366d6; 
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  h1, h2, h3, h4, h5, h6 {
+    border-bottom: 1px solid #eaecef;
+  }
+  
+  
+  blockquote {
+    margin-left: 0;
+    padding: 0 1em;
+    color: #6a737d;
+    border-left: 0.25em solid #dfe2e5; 
+  }
+  
+  
+  pre {
+    padding: 16px;
+    overflow: auto;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius: 6px;
+  }
+  
+  code {
+    background-color: transparent;
+    font-family: inherit;
+  }
+  
+  
